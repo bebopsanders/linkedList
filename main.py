@@ -66,7 +66,7 @@ my_list.putHerOnTheBack(1)
 my_list.putHerOnTheBack(2)
 my_list.putHerOnTheBack(3)
 my_list.putHerOnTheBack(4)
-# my_list.append() #
+# my_list.display() #
 my_list.showMeThat()
 # print(my_list.get(1))
 print("Here's your data: {}".format(my_list.getThatShit(2)))
