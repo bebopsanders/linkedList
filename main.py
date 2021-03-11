@@ -74,3 +74,4 @@ for i in range(400):
 print(new_list.length())
 t1 = time.time()
 print("Time: {}".format(str(t1-t0)))
+print(new_list.display())
